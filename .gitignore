@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+.installed.cfg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Secrets & local config
+.env.local
+.env.*.local
+secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Large files / data
+*.csv
+*.xlsx
+*.parquet
+*.db
+
+# Docs
+*.docx
+SmartEDA_Synopsis.docx

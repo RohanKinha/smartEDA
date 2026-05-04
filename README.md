@@ -1,3 +1,15 @@
+---
+title: SmartEDA
+emoji: 🧠
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+short_description: LLM-Powered Automated Exploratory Data Analysis Tool
+---
+
 # 🧠 SmartEDA — LLM-Powered Automated EDA Tool
 
 <div align="center">
